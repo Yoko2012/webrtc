@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/219398/trunk/tools/swarm_client/third_party/chromium
+END
+README.swarming
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/219398/trunk/tools/swarm_client/third_party/chromium/README.swarming
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/219398/trunk/tools/swarm_client/third_party/chromium/__init__.py
+END
+python26_polyfill.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/219398/trunk/tools/swarm_client/third_party/chromium/python26_polyfill.py
+END

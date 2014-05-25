@@ -1,0 +1,77 @@
+10
+
+dir
+232627
+http://src.chromium.org/svn/trunk/tools/swarm_client/third_party
+http://src.chromium.org/svn
+
+
+
+2013-10-01T20:38:43.893976Z
+226291
+vadimsh@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+chromium
+dir
+
+__init__.py
+file
+
+
+
+
+2013-12-05T12:31:50.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2013-04-04T19:34:21.428786Z
+192389
+vadimsh@chromium.org
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+depot_tools
+dir
+
+requests
+dir
+
+colorama
+dir
+
+rietveld
+dir
+

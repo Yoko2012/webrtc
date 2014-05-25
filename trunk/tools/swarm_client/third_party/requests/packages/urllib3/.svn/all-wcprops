@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/urllib3
+END
+request.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/urllib3/request.py
+END
+connectionpool.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/urllib3/connectionpool.py
+END
+_collections.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/urllib3/_collections.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/urllib3/util.py
+END
+response.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/urllib3/response.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/urllib3/__init__.py
+END
+exceptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/urllib3/exceptions.py
+END
+poolmanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/urllib3/poolmanager.py
+END
+filepost.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/urllib3/filepost.py
+END
+fields.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/urllib3/fields.py
+END

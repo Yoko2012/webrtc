@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade
+END
+langcyrillicmodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/langcyrillicmodel.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/__init__.py
+END
+langhungarianmodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/langhungarianmodel.py
+END
+langhebrewmodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/langhebrewmodel.py
+END
+big5prober.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/big5prober.py
+END
+universaldetector.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/universaldetector.py
+END
+latin1prober.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/latin1prober.py
+END
+jisfreq.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/222845/trunk/tools/swarm_client/third_party/requests/packages/charade/jisfreq.py
+END
+big5freq.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/222845/trunk/tools/swarm_client/third_party/requests/packages/charade/big5freq.py
+END
+gb2312prober.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/gb2312prober.py
+END
+escsm.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/escsm.py
+END
+chardistribution.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/chardistribution.py
+END
+gb2312freq.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/222845/trunk/tools/swarm_client/third_party/requests/packages/charade/gb2312freq.py
+END
+charsetgroupprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/charsetgroupprober.py
+END
+langgreekmodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/langgreekmodel.py
+END
+mbcharsetprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/mbcharsetprober.py
+END
+mbcssm.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/mbcssm.py
+END
+escprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/escprober.py
+END
+hebrewprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/hebrewprober.py
+END
+sbcharsetprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/sbcharsetprober.py
+END
+codingstatemachine.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/codingstatemachine.py
+END
+utf8prober.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/utf8prober.py
+END
+euctwprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/euctwprober.py
+END
+charsetprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/222845/trunk/tools/swarm_client/third_party/requests/packages/charade/charsetprober.py
+END
+euctwfreq.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/222845/trunk/tools/swarm_client/third_party/requests/packages/charade/euctwfreq.py
+END
+jpcntx.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/jpcntx.py
+END
+langthaimodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/langthaimodel.py
+END
+mbcsgroupprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/mbcsgroupprober.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/constants.py
+END
+eucjpprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/eucjpprober.py
+END
+sbcsgroupprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/sbcsgroupprober.py
+END
+sjisprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/sjisprober.py
+END
+cp949prober.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/cp949prober.py
+END
+compat.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/222845/trunk/tools/swarm_client/third_party/requests/packages/charade/compat.py
+END
+euckrprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/euckrprober.py
+END
+langbulgarianmodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/charade/langbulgarianmodel.py
+END
+euckrfreq.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/222845/trunk/tools/swarm_client/third_party/requests/packages/charade/euckrfreq.py
+END

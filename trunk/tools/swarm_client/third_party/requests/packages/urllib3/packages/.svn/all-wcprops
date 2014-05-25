@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/packages/urllib3/packages
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/222845/trunk/tools/swarm_client/third_party/requests/packages/urllib3/packages/__init__.py
+END
+six.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/222845/trunk/tools/swarm_client/third_party/requests/packages/urllib3/packages/six.py
+END
+ordered_dict.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/222845/trunk/tools/swarm_client/third_party/requests/packages/urllib3/packages/ordered_dict.py
+END

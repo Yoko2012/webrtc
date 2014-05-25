@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/218301/trunk/tools/swarm_client/third_party/depot_tools
+END
+subcommand.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/218301/trunk/tools/swarm_client/third_party/depot_tools/subcommand.py
+END
+README.swarming
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/218301/trunk/tools/swarm_client/third_party/depot_tools/README.swarming
+END
+fix_encoding.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/218301/trunk/tools/swarm_client/third_party/depot_tools/fix_encoding.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/218301/trunk/tools/swarm_client/third_party/depot_tools/__init__.py
+END

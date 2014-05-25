@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/222845/trunk/tools/swarm_client/third_party/requests/NOTICE
+END
+cacert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/222845/trunk/tools/swarm_client/third_party/requests/cacert.pem
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/222845/trunk/tools/swarm_client/third_party/requests/LICENSE
+END
+README.swarming
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/README.swarming
+END
+cookies.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/cookies.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/utils.py
+END
+status_codes.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/status_codes.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/auth.py
+END
+adapters.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/adapters.py
+END
+sessions.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/sessions.py
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/222845/trunk/tools/swarm_client/third_party/requests/api.py
+END
+README.rst
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/README.rst
+END
+certs.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/222845/trunk/tools/swarm_client/third_party/requests/certs.py
+END
+exceptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/exceptions.py
+END
+HISTORY.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/HISTORY.rst
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/models.py
+END
+hooks.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/222845/trunk/tools/swarm_client/third_party/requests/hooks.py
+END
+compat.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/compat.py
+END
+structures.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/226291/trunk/tools/swarm_client/third_party/requests/structures.py
+END

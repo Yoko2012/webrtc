@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/231704/trunk/tools/swarm_client/tests
+END
+url_open_timeout_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/222904/trunk/tools/swarm_client/tests/url_open_timeout_test.py
+END
+file_path_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/225565/trunk/tools/swarm_client/tests/file_path_test.py
+END
+trace_inputs_smoke_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/225565/trunk/tools/swarm_client/tests/trace_inputs_smoke_test.py
+END
+isolate_smoke_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/231704/trunk/tools/swarm_client/tests/isolate_smoke_test.py
+END
+trace_inputs_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/225565/trunk/tools/swarm_client/tests/trace_inputs_test.py
+END
+isolate_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/225565/trunk/tools/swarm_client/tests/isolate_test.py
+END
+lru_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/219398/trunk/tools/swarm_client/tests/lru_test.py
+END
+short_expression_finder_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/220303/trunk/tools/swarm_client/tests/short_expression_finder_test.py
+END
+auto_stub.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/197535/trunk/tools/swarm_client/tests/auto_stub.py
+END
+zip_package_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/218845/trunk/tools/swarm_client/tests/zip_package_test.py
+END
+isolateserver_smoke_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/226776/trunk/tools/swarm_client/tests/isolateserver_smoke_test.py
+END
+swarming_smoke_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/226265/trunk/tools/swarm_client/tests/swarming_smoke_test.py
+END
+threading_utils_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/226540/trunk/tools/swarm_client/tests/threading_utils_test.py
+END
+run_isolated_smoke_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/231704/trunk/tools/swarm_client/tests/run_isolated_smoke_test.py
+END
+net_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/224636/trunk/tools/swarm_client/tests/net_test.py
+END
+swarming_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/231324/trunk/tools/swarm_client/tests/swarming_test.py
+END
+isolateserver_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/227541/trunk/tools/swarm_client/tests/isolateserver_test.py
+END

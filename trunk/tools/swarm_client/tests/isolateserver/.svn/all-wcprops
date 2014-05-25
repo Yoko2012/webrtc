@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/220093/trunk/tools/swarm_client/tests/isolateserver
+END
+small_file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/220093/trunk/tools/swarm_client/tests/isolateserver/small_file.txt
+END
+empty_file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/220093/trunk/tools/swarm_client/tests/isolateserver/empty_file.txt
+END

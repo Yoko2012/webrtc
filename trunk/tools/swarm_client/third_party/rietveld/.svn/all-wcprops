@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/219398/trunk/tools/swarm_client/third_party/rietveld
+END
+README.swarming
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/219398/trunk/tools/swarm_client/third_party/rietveld/README.swarming
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/219398/trunk/tools/swarm_client/third_party/rietveld/__init__.py
+END
+upload.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/219398/trunk/tools/swarm_client/third_party/rietveld/upload.py
+END
